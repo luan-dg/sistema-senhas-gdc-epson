@@ -42,24 +42,6 @@ As configurações são armazenadas no arquivo `config.json`, incluindo:
 
 Confira se o endereço IP, a porta e o nome da impressora correspondem ao ambiente em que o programa será executado.
 
-## 🚀 Como executar
-
-### Executar pelo Python
-
-1. Clone ou baixe este repositório.
-2. Instale as dependências necessárias.
-3. Configure o endereço IP, a porta e a impressora.
-4. Execute o arquivo principal do sistema.
-
-### Gerar o executável
-
-O projeto inclui um script `.bat` para automatizar a compilação com PyInstaller.
-
-1. Deixe o código Python, o script `.bat` e o ícone `.ico` na estrutura esperada pelo compilador.
-2. Execute o arquivo `.bat`.
-3. Aguarde a conclusão da compilação.
-4. Localize o executável gerado na pasta `dist`.
-
 ## 📁 Arquivos de controle
 
 - `config.json`: configurações do sistema.
